@@ -306,6 +306,4 @@ copyrightElements.forEach(element => {
 });
 
 
-// =====================================
-// END OF DAILY CUP JAVASCRIPT
-// =====================================
+
